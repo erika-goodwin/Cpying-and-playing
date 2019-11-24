@@ -10,7 +10,7 @@
       <div class=" text-blue-700 text-xl font-sans">
         <a href="https://www.apple.com/shop/gifts" class=" capitalize underline">shop gifts</a> >
       </div>
-      
+
     </div>
 
     <div class="mx-auto w-3/4 justify-center">
@@ -20,7 +20,7 @@
         <a href="http://"><img class="" src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/holiday-iphone11-pro-hero-201911?wid=1644&hei=1644&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572907437331" alt="iphone 11pro"></a>
       </div>
     </div>
-    
+
 
     <div class=" bg-black h-full w-full mx-auto flex flex-col over mt-10">
       <div class=" text-white font-sans mt-10">
@@ -85,10 +85,12 @@
           <img class=" text-5xl" src="https://steamykitchen.com/wp-content/uploads/2017/11/apple-watch-series-3-giveaway-3.png" alt="apple watch">
         </div>
      </div>
-
-
-
     </div>
-    
   </div>
 </template>
+
+<script>
+export default {
+  name: "apple",
+};
+</script>
