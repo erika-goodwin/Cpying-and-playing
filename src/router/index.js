@@ -1,7 +1,8 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
-import About from "../views/About.vue";
+import Apple from "../views/Apple.vue";
+import Instagram from "../views/Instagram.vue";
 
 Vue.use(VueRouter);
 
@@ -12,9 +13,16 @@ const routes = [
     component: Home
   },
   {
-    path: "/about",
-    name: "about",
-    component: About
+    path: "/apple",
+    name: "apple",
+    component: Apple,
+    meta: { layout: 'apple' },
+  },
+  {
+    path: "/instagram",
+    name: "instagram",
+    component: Instagram,
+    meta: { layout: 'instagram' },
   }
 ];
 
