@@ -1,7 +1,7 @@
 <template>
   <div class=" h-20 w-2/3 mx-auto flex items-center justify-between">
     <div class=" inline-flex items-center">
-      <font-awesome-icon class=" text-black text-2xl" icon="camera-retro"></font-awesome-icon>
+      <font-awesome-icon class=" text-black text-2xl" :icon="['fab', 'instagram']"></font-awesome-icon>
       <img class=" h-10 border-l border-black ml-4 pl-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png" alt="">
     </div>
     <div>
@@ -21,6 +21,6 @@
 
 <script>
 export default {
-  name: "Navbar",
+  name: "InstragramNavbar",
 };
 </script>
