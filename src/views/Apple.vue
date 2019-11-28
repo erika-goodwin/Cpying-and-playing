@@ -57,10 +57,23 @@
     </div>
 
 
-    <div class="flex flex-wrap">
-     <div>
+    <div class="flex flex-row mt-2">
+     <div class="bg-orange-400 w-1/2 h-2/3 border-8">
         <div class=" text-black font-sans mt-10">
           <font-awesome-icon class=" text-black ml-2" icon="apple"></font-awesome-icon>
+          <h1 class=" font-bold text-5xl">watch</h1
+          <p class=" text-2xl">With the new Always-On Retinadisplay.<br>You've never seen a watch like this.</p>
+        </div>
+        <div class=" text-blue-700 text-xl font-sans">
+          <a href="https://www.apple.com/shop/gifts" class=" capitalize underline">Learn more</a> >
+          <a href="https://www.apple.com/shop/gifts" class=" capitalize underline">buy</a> >
+        </div>
+        <div class=" mx-auto">
+          <img class=" text-5xl" src="https://steamykitchen.com/wp-content/uploads/2017/11/apple-watch-series-3-giveaway-3.png" alt="apple watch">
+        </div>
+     </div>
+     <div class="bg-yellow-500 w-1/2 h-2/3 border-8">
+       <div class=" text-black font-sans mt-10">
           <h1 class=" font-bold text-5xl">watch</h1>
           <p class=" text-2xl">With the new Always-On Retinadisplay.<br>You've never seen a watch like this.</p>
         </div>
@@ -72,7 +85,23 @@
           <img class=" text-5xl" src="https://steamykitchen.com/wp-content/uploads/2017/11/apple-watch-series-3-giveaway-3.png" alt="apple watch">
         </div>
      </div>
-     <div>
+    </div>
+      <div class="flex flex-row">
+     <div class="bg-orange-400 w-1/2 border-8">
+        <div class=" text-black font-sans mt-10">
+          <font-awesome-icon class=" text-black ml-2" icon="apple"></font-awesome-icon>
+          <h1 class=" font-bold text-5xl">watch</h1
+          <p class=" text-2xl">With the new Always-On Retinadisplay.<br>You've never seen a watch like this.</p>
+        </div>
+        <div class=" text-blue-700 text-xl font-sans">
+          <a href="https://www.apple.com/shop/gifts" class=" capitalize underline">Learn more</a> >
+          <a href="https://www.apple.com/shop/gifts" class=" capitalize underline">buy</a> >
+        </div>
+        <div class=" mx-auto">
+          <img class=" text-5xl" src="https://steamykitchen.com/wp-content/uploads/2017/11/apple-watch-series-3-giveaway-3.png" alt="apple watch">
+        </div>
+     </div>
+     <div class="bg-yellow-500 w-1/2 border-8">
        <div class=" text-black font-sans mt-10">
           <h1 class=" font-bold text-5xl">watch</h1>
           <p class=" text-2xl">With the new Always-On Retinadisplay.<br>You've never seen a watch like this.</p>
