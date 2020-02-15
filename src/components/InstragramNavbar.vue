@@ -13,6 +13,7 @@
       </div>
     </div>
     <div>
+      <router-link to="instagramFeed">Feed</router-link>
       <button class=" bg-blue-500 text-white font-bold capitalize mx-2 px-2 h-8 py-1 rounded text-sm">log in</button>
       <button class=" text-blue-500 font-bold capitalize mx-2 px-2 h-8 rounded text-sm">sign up</button>
     </div>

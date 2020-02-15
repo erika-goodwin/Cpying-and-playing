@@ -14,6 +14,10 @@
           <font-awesome-icon class=" text-black text-2xl" :icon="['fab', 'apple']"></font-awesome-icon>
             <span class="ml-2 capitalize text-xl">apple</span>
         </router-link>
+        <router-link :to="{ name: 'mammut' }" class="flex items-center hover:text-gray-600">
+          <font-awesome-icon class=" text-black text-2xl" :icon="['fas', 'mountain']"></font-awesome-icon>
+            <span class="ml-2 capitalize text-xl">mammut</span>
+        </router-link>
       </div>
     </nav>
   </div>

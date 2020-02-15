@@ -19,7 +19,7 @@
          <span class=" ml-1">following</span>
         </div>
         <div class="flex flex-col text-left mt-4">
-          <spam class=" font-bold">SpaceX</spam>
+          <span class=" font-bold">SpaceX</span>
           <p>
           SpaceX designs, manufactures and launches the world's most advanced rockets and spacecraft
           </p>
