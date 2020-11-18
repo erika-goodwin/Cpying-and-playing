@@ -48,7 +48,12 @@ const routes = [
         component: MammutMen,
         meta: { layout: 'mammut' },
       },
-      // here insert women view
+      {
+        path: "women",
+        name: "mammutWomen",
+        component: MammutWomen,
+        meta: { layout: 'mammut' },
+      },
       {
         path: "kids",
         name: "mammutKids",
